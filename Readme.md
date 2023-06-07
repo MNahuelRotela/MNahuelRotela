@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnahuelrotela&label=Profile%20views&color=0eb1b4&style=flat" alt="mnahuelrotela" /> </p>
 
-- 🔭 I’m currently working on **Code-Mentor (Internship in a Canadian company)**
+- 🔭 I’m currently working on **Code-Tutor (Internship in a Canadian company)**
 
 - 🌱 I’m currently learning **Python**
 
